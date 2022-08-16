@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 namespace WebApi.Models;
 
 public class Character
@@ -8,4 +9,13 @@ public class Character
     public int Strength { get; set; } = 10;
     public int Defense { get; set; } = 10;
     public int Intelligence { get; set; } = 10;
+    public RpgClass Class { get; set; } = RpgClass.Knight;
+}
+
+[JsonConverter(typeof(JsonStringEnumConverter))]
+public enum RpgClass
+{
+    Knight = 1,
+    Mage = 2,
+    Cleric = 3
 }
