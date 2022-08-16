@@ -1,0 +1,7 @@
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.exe
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.dll
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.deps.json
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+D:\Important\Training\DotNet Core\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.pdb

@@ -15,7 +15,7 @@ public class PizzaController : ControllerBase
     // GET all action
     [HttpGet]
     public ActionResult<List<Pizza>> GetAll() => PizzaService.GetAll();
-
+    
     // GET by Id action
     [HttpGet("{id}")]
     public ActionResult<Pizza> Get(int id)
@@ -66,4 +66,6 @@ public class PizzaController : ControllerBase
         PizzaService.Delete(id);
         return NoContent();
     }
+
+    
 }
